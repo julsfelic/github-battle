@@ -8,7 +8,7 @@ import {
   FaExclamationTriangle
 } from "react-icons/fa";
 import Card from "./Card";
-import Loading from "./loading";
+import Loading from "./Loading";
 import Tooltip from "./Tooltip";
 
 function LanguagesNav({ selected, onUpdateLanguage }) {
